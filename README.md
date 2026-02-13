@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello Hello! 👋
 
-<!--
-**quality-kels/quality-kels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Quality Engineer** focused on building scalable automation systems and strengthening release confidence through thoughtful, risk-based testing.
 
-Here are some ideas to get you started:
+I believe quality is built through strong collaboration, clear communication, and intentional test design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Tools
+- **Test Automation:** Cypress, Playwright (learning), Cucumber (BDD)
+- **Languages:** JavaScript (learning), SQL
+- **CI/CD:** Jenkins, GitHub Actions, CircleCI
+- **API Testing:** Postman, REST APIs, SOAP APIs (SoapUI)
+- **Tools:** Docker, Git, GitHub, JIRA, Confluence, Chrome DevTools
+- **Cloud:** AWS
+
+### 🌱 Currently Working On
+- Designing maintainable automation frameworks for web applications
+- Exploring AI-assisted testing workflows and test generation
+- Deepening JavaScript fundamentals to strengthen automation architecture
+
+### 💼 What I Focus On
+- Risk-based testing and release confidence
+- Writing clean, maintainable automation code
+- Improving CI/CD testing pipelines
+- Strengthening testing systems through process refinement
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/kelseyjdoyle/)
+
+---
+
+*Feel free to explore my repositories below to see my automation projects and testing experiments.*
